@@ -1,5 +1,5 @@
 const num1= 2;
-let start =num11 +1;
+let start =num1 +1;
 const num2=6;
 
 while(start < num2){
